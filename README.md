@@ -12,7 +12,7 @@ Outside of work, I also am(n):
 
 * 📺 anime and horror movie watcher
 * 🎮 Fate Grand Order JP player
-* * 📚 avid reader
+* 📚 avid reader
 * 🐾 furparent
 * 🌱 plant parent
 
