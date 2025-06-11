@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Law0804/Law0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Law!
+## Hi there 👋. I'm Law!
 
 On paper, my work responsibilities correspond to that of a 🔬 plant pathologist. However, I don't like to be confined to a single role, so when the need arises, I also wear the hat of a
 
@@ -19,4 +14,3 @@ Outside of work, I also am(n):
 🐾 furparent
 🌱 plant parent
 For inquiries, collaborations, or consultations, shoot me an email at lawrenceparaiso@gmail.com!
--->
