@@ -3,14 +3,20 @@
 <!--
 **Law0804/Law0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Law!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+On paper, my work responsibilities correspond to that of a 🔬 plant pathologist. However, I don't like to be confined to a single role, so when the need arises, I also wear the hat of a
+
+🌿 plant disease researcher
+💻 bioinformatician
+📊 data analyst
+🔬 microbiologist
+Outside of work, I also am(n):
+
+📺 anime and horror movie watcher
+🎮 Fate Grand Order JP player
+📚 avid reader
+🐾 furparent
+🌱 plant parent
+For inquiries, collaborations, or consultations, shoot me an email at lawrenceparaiso@gmail.com!
 -->
